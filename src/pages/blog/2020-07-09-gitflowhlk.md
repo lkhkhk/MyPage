@@ -10,6 +10,8 @@ tags:
 ---
 life cycle of branch
 
+![GitFlowHlk](/img/gitflowhlkh-20200706.png)
+
 ①	Hotfix branch
 
 ②	Feature branch
