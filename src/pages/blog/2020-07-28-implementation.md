@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: "[implementation]"
+title: GitFlowDB
 date: 2020-07-28T06:25:18.378Z
-description: GitFlowDB 의 Event 처리
+description: "GitFlowDB : 1. Create Branch(Initilization Branch)"
 featuredpost: false
 featuredimage: /img/gitflowhlkh-20200706.png
 tags:
