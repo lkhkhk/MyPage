@@ -12,7 +12,7 @@
 |--|--|--|--|--|--|
 | Create branch Develop | 0.0.0
 | Create branch Master from Develop | | | | | 0.0.0
-| Create branch Feature(F1) from Develop <td rowspan=2> | 
+| <td rowspan=2> Create branch Feature(F1) from Develop  | 0.0.0
 | | | | | | |
 | ... | ... | ... | ... | ... | ... |
 
@@ -60,5 +60,5 @@
 | 0.1.2 | 0.1.2 | 0.1.1 | 0.1.0 | 0.1.0 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM3OTI2NjBdfQ==
+eyJoaXN0b3J5IjpbMTc3OTM4NzAzMl19
 -->
