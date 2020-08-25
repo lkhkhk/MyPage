@@ -11,9 +11,9 @@
 영구 브랜치의 버전이 증가하면 개발 브랜치는 영구 브랜치를 병합하고 개발 브랜치의 버전을 영구 브랜치의 버전으로 변경한다.
 
 |<td colspan=2> D | Fs | Rs | Hs | M |
-| - | - | - | - | - | - | - | - |
-|Create branch Develop | 0.0.0
-| 2 <td colspan=2>Create branch Master from Develop | 0.0.0 | | | | **0.0.0** | 
+| - | - | - | - | - | - | - |-|-|
+|Create branch Develop | 0.0.0 | | | |
+|Create branch Master from Develop | 0.0.0|  | | |**0.0.0** | 
 | 3 <td rowspan=2 colspan=2>Create branch Feature(F1) from Develop | 0.0.0 | 0.0.0 | | | 0.0.0 | 
 | | | **0.0.0(F1)** | | | | 
 | 4 <td colspan=2>Merge branch Feature(F1) into Develop | **0.0.1(F1)** | 0.0.0(F1) | | | 0.0.0 | 
@@ -53,5 +53,5 @@
 | 0.1.2 | 0.1.2 | 0.1.1 | 0.1.0 | 0.1.0 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU0NTgzMDBdfQ==
+eyJoaXN0b3J5IjpbLTE2NTk1NjkxNDZdfQ==
 -->
