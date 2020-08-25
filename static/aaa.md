@@ -8,7 +8,7 @@
 개발브랜치를 영구브랜치에 병합할 때 영구브랜치의 버전을 증가시킨다.
 영구 브랜치의 버전이 증가하면 개발 브랜치는 영구 브랜치를 병합하고 개발 브랜치의 버전을 영구 브랜치의 버전으로 변경한다.
 
-|  | D |  |
+|  | D | Fs |
 |--|--|--|
 | Create branch Develop | 0.0.0 |  |
 
@@ -57,5 +57,5 @@
 | 0.1.2 | 0.1.2 | 0.1.1 | 0.1.0 | 0.1.0 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODQ0Njg3XX0=
+eyJoaXN0b3J5IjpbMTk4ODU1NjM4OF19
 -->
